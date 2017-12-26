@@ -28,4 +28,14 @@ ul#menu{
          color: #ffffff;          /*文字色*/
          display: block;          /*リンク部分をブロック表示にする*/
          width: 240px; height: 35px;          /*幅と高さ*/
+         padding: 15px 0px 0px 0px;          /**/
+         text-align: center;          /*テキストをセンター揃えにする*/
+         text-decoration: noone;          /*リンク部分を下戦無しにする*/
+}
+
+#menu li a:hover {
+         background-color: #000066;          /*リンクにマウスが乗ったら背景色を変更する*/
+
+
+
 }
