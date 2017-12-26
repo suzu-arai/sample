@@ -9,6 +9,7 @@ body {
 }
 
 div#pagebody{
+       width: 1000px; margin: 0 auto;      /*内容全体をセンタリング*/
        background-color: #ffffff;          /*内容全体の背景色*/
 
 }
