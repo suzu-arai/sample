@@ -108,3 +108,8 @@ ul#menu{
        float: right;                          /*画像を右寄せにする*/
 
 }
+
+hr{
+      clear: both;                            /*フロート配置をクリアする*/
+
+}
