@@ -28,7 +28,13 @@ div#pagebody{
 
 }
 
-img {border: 0;}                           /*画像のボーダーを0にする*/
+img {  border: 0;}                           /*画像のボーダーを0にする*/
+
+p{
+      width: 660px;                          /*幅の指定*/
+      margin: 10px;                          /*マージン*/
+      text-indent:1em;                       /*インデント幅*/
+}
 
 
 
