@@ -5,6 +5,7 @@
 ==============================*/
 table.profile {
        width: 680px;                              /*テーブル全体の幅*/
+       border-collapse: collapse;                 /*セル同士の間に隙間を空けない*/
 
 }
 
