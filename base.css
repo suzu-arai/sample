@@ -201,6 +201,12 @@ h3{
 
 }
 
+.infoimg_subpage {
+       width: 400px; height: 300px;           /*画像の表示サイズを指定*/
+       margin: 0px 20px 20px 0px;             /*マージン*/
+       float: left;                           /*画像を左寄せにする*/
+
+}
 
 hr{
       clear: both;                            /*フロート配置をクリアする*/
