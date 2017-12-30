@@ -179,10 +179,19 @@ div#submenu ul li a:before {
 インフォメーション（右カラム）
 ===============================================*/
 div#info {
-       width: 660px;                           /*幅の指定*/
-       float: left;                            /*カラムを左寄せにする*/
-       padding: 10px 20px 0px 0px;             /*パディング*/
+       width: 660px;                          /*幅の指定*/
+       float: left;                           /*カラムを左寄せにする*/
+       padding: 10px 20px 0px 0px;            /*パディング*/
 
+}
+
+h3{
+       font-size: 14px;                       /*文字サイズ*/
+       width: 660px;                          /*横幅*/
+       padding: 10px  0px 10px 20px;          /*パディング*/
+       background-color: #003399;             /*背景色*/
+       color: #ffffff;                        /*文字色*/
+       border-radius: 3px;                    /*角丸にする*/
 }
 
 .infoimg_index {
