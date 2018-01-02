@@ -18,3 +18,15 @@
          outline-style: none;                           /*アウトライン無しにする*/
 
 }
+
+#form1 p input {
+         width: 300px; height: 40px;                    /*幅と高さ*/
+         border: 0;                                     /*ボーダー無し*/
+
+}
+
+#form1 p {
+         text-align: center;                            /*センタリング*/
+         text-indent: 0;                                /*時下げ幅をゼロにする*/
+
+}
