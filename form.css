@@ -30,3 +30,8 @@
          text-indent: 0;                                /*時下げ幅をゼロにする*/
 
 }
+
+input[type="text"],input[type="email"] {
+         width: 70%;
+
+}
